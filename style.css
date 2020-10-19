@@ -25,4 +25,7 @@ section[id="featured-property"] p {
 section[id="details"] div {
   display: block;
   float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
